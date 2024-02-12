@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swagger generated server
 
 ## Overview
@@ -47,3 +48,7 @@ docker build -t swagger_server .
 # starting up a container
 docker run -p 8080:8080 swagger_server
 ```
+=======
+# RESTful-API
+"Basic Cloud and DevOps skills" assignment for "DevOps and Cloud-based Software" course UvA Masters Software Engineering
+>>>>>>> cba63910370a42ada2952aa7f2fb417ae60ac837
